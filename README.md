@@ -43,3 +43,9 @@ Filter out bad emails to protect your colleagues
 Understanding real world security systems
 
 ```Data Structures``` ```Access Control```
+
+<br>
+
+Completion Certificate :
+
+![Certificate](JPMorgan Chase & Co._completion_certificate.jpg)
