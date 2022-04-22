@@ -15,3 +15,31 @@ Experience for yourself the daily tasks our cybersecurity team faces while keepi
 - The ability to take the program completely in your own time and at your own pace.
 - A foundational knowledge of cybersecurity you can prove with a certificate of completion.
 - Confidence in knowing if cybersecurity is part of your future career path.
+
+### 📑Tasks: 
+
+**1. Analyze a Large Dataset of Fraud in Financial Payment Services**
+
+Working with data of security critical systems
+
+_Practical skills you will gain from working on this task_
+
+```Exploratory Data Analysis``` ```Open Source``` ```Presentation```
+
+**2. Learn About Application Security Fundamentals and Put it to Use on Your Own Website**
+
+Gain awareness of what needs to be secured
+
+```Application Security Hygiene``` ```Web Application Development```
+
+**3. Spam or Ham? Build an Email Classifier**
+
+Filter out bad emails to protect your colleagues
+
+```Email Security Fundamentals``` ```Text-Based ML Models```
+
+**4. Design and Develop a System to Tighten Access to Sensitive Information (_Bonus Task_)**
+
+Understanding real world security systems
+
+```Data Structures``` ```Access Control```
