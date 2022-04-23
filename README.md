@@ -48,4 +48,4 @@ Understanding real world security systems
 
 Completion Certificate :
 
-![Certificate](JPMorgan Chase & Co._completion_certificate.jpg)
+![Certificate](completion_certificate.png)
